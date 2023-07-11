@@ -19,11 +19,11 @@ LZW does not create a mapping to byte to bin sequence. It creates mapping
 of multiple byte to binary sequence.
 
 ## Running Instruction:
-```
+```<img width="662" alt="zipper" src="https://github.com/ruchikayadav1408/File-Compression/assets/86114973/86a848a0-907f-4290-b10d-b9dc4bba0292">
+
 java -jar FileCompression.jar
 ```
 
-![Outlook](/git_resource/outlook.png?raw=true "File Compression GUI")
 
 ## Zip a file
 file>open>click zip>the zipped file will be created on the same folder
